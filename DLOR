@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Modified bg header</title>
+<title>Digital Libraries and Repositories/title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -191,7 +191,7 @@ footer {
 			<p>The University of Santo Tomas (UST) in Manila has digitized its rare and historical materials. The UST Heritage Collections include a digital repository created for preservation and to provide users with a trusted digital library that supports information discovery. These collections are available online, making rare and historical materials accessible to a wider audience.</p>
 
 			<li><a href="https://elibrary.pcaarrd.dost.gov.ph/home"><i>DOST PCAARRD eLibrary</i></a></li>
-			<img src="https://drive.google.com/thumbnail?id=1lBDTBjQ1uYGKkjTWpmOoQRi5T4x58lMc" style="display:block; margin:auto;" alt="DOST PCAARRD eLibrary">
+			<img src="https://drive.google.com/thumbnail?id=18bGqhM0f_AJAHRmUXu_f3DDFcFb_Hk1M" style="display:block; margin:auto;" alt="DOST PCAARRD eLibrary">
 			<p>The Department of Science and Technology – Philippine Council for Agriculture, Aquatic, and Natural Resources Research and Development (DOST-PCAARRD) has an online library that includes research, publications, technical reports, and other resources. Users can create an account to access the library materials, which are available to scientists, researchers, and the general public.</p> 
 
 			<li><a href="https://repository.upou.edu.ph/community-list"><i>UPOU Repository</i></a></li>
